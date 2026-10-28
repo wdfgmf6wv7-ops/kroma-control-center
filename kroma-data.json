@@ -1,5 +1,34 @@
 {
   "version": 1,
-  "updatedAt": null,
-  "updates": []
+  "updatedAt": "2026-10-28 11:58 (Europe/Rome)",
+  "updates": [
+    {
+      "agentId": "control",
+      "date": "2026-10-28 08:20",
+      "title": "Agenda operativa del 28 ottobre",
+      "summary": "Riepilogo preparato in ChatGPT: quattro agenti programmati. Priorità: controllare le Storie Instagram, verificare i report delle 19:00 e selezionare 2-3 potenziali clienti. Stato dell'esecuzione del Control Center non confermato dal sistema.",
+      "status": "Report disponibile · esecuzione non riverificata"
+    },
+    {
+      "agentId": "social",
+      "date": "2026-10-27 19:05",
+      "title": "Pacchetto Storie Instagram per il 28 ottobre",
+      "summary": "Il riepilogo precedente segnala tre Storie Instagram sul passaggio dall'idea al progetto digitale, con sondaggio finale. Pubblicazione non verificata; allegati non controllati separatamente.",
+      "status": "Risultato riportato · pubblicazione non verificata"
+    },
+    {
+      "agentId": "lead",
+      "date": "2026-10-27 18:33",
+      "title": "Ricerca potenziali clienti in provincia di Cuneo",
+      "summary": "Il riepilogo precedente riporta 10 potenziali clienti, di cui 5 prioritari. Fra gli esempi citati: Fashion Fusion (Cuneo), Geppetto Oggetti Speciali (Alba), Pasta Fresca Grimaldi (Bra). Opportunità da verificare prima del contatto.",
+      "status": "Risultato riportato · lead da verificare"
+    },
+    {
+      "agentId": "trend",
+      "date": "2026-10-28 19:00",
+      "title": "Prima ricerca trend Instagram programmata",
+      "summary": "Ricerca di trend, format e audio prevista per mercoledì 28 ottobre alle 19:00. Nessun report verificato disponibile al momento di questo aggiornamento.",
+      "status": "Programmato · non completato"
+    }
+  ]
 }
