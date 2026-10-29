@@ -1,34 +1,41 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28 11:58 (Europe/Rome)",
+  "updatedAt": "2026-10-29 15:22 (Europe/Rome)",
   "updates": [
     {
       "agentId": "control",
-      "date": "2026-10-28 08:20",
-      "title": "Agenda operativa del 28 ottobre",
-      "summary": "Riepilogo preparato in ChatGPT: quattro agenti programmati. Priorità: controllare le Storie Instagram, verificare i report delle 19:00 e selezionare 2-3 potenziali clienti. Stato dell'esecuzione del Control Center non confermato dal sistema.",
-      "status": "Report disponibile · esecuzione non riverificata"
+      "date": "2026-10-29 08:16",
+      "title": "Agenda operativa Kroma — 29 ottobre",
+      "summary": "Esecuzione del Control Center del 29/10 completata alle 08:16 (verificata nel registro automazioni). Report con agenda dei quattro agenti e priorità: revisione carosello Instagram, verifica nuova esecuzione Social alle 19:00, approfondimento lead e aggiornamento manuale JSON. La pubblicazione del carosello e i contatti ai lead non sono confermati. Prossima esecuzione prevista: 30/10 ore 08:00.",
+      "status": "Esecuzione completata · azioni utente in sospeso"
     },
     {
       "agentId": "social",
-      "date": "2026-10-27 19:05",
-      "title": "Pacchetto Storie Instagram per il 28 ottobre",
-      "summary": "Il riepilogo precedente segnala tre Storie Instagram sul passaggio dall'idea al progetto digitale, con sondaggio finale. Pubblicazione non verificata; allegati non controllati separatamente.",
-      "status": "Risultato riportato · pubblicazione non verificata"
+      "date": "2026-10-28 19:03",
+      "title": "Carosello Instagram per il 29 ottobre",
+      "summary": "Il report dell'agente risulta completato e dichiara 4 immagini PNG 1080×1080 sul tema «Il tuo sito funziona davvero?» (chiarezza, navigazione mobile, contatti). Il report contiene collegamenti ai file; file non ispezionati separatamente; pubblicazione Instagram non verificata. Prossima esecuzione prevista: 29/10 alle 19:00.",
+      "status": "Report completato · pubblicazione non verificata"
+    },
+    {
+      "agentId": "trend",
+      "date": "2026-10-28 19:09",
+      "title": "Primo report Trend Hunter",
+      "summary": "Report completato: format Loading 0% → 100%, before/after, tagli musicali e vlog con timestamp. Audio candidato: «Windows in Brazil»; disponibilità e licenze da controllare prima dell'uso. Prossima esecuzione prevista: 04/11 alle 19:00.",
+      "status": "Report completato · trend da validare"
     },
     {
       "agentId": "lead",
       "date": "2026-10-27 18:33",
-      "title": "Ricerca potenziali clienti in provincia di Cuneo",
-      "summary": "Il riepilogo precedente riporta 10 potenziali clienti, di cui 5 prioritari. Fra gli esempi citati: Fashion Fusion (Cuneo), Geppetto Oggetti Speciali (Alba), Pasta Fresca Grimaldi (Bra). Opportunità da verificare prima del contatto.",
-      "status": "Risultato riportato · lead da verificare"
+      "title": "10 potenziali clienti nella provincia di Cuneo",
+      "summary": "Report completato con 10 potenziali clienti, di cui 5 classificati ad alta priorità. Da approfondire: Fashion Fusion (Cuneo), Geppetto Oggetti Speciali (Alba), Pasta Fresca Grimaldi (Bra). Nessun contatto commerciale inviato; opportunità da verificare. Prossima esecuzione prevista: 02/11 alle 09:00.",
+      "status": "Report completato · lead da verificare"
     },
     {
-      "agentId": "trend",
-      "date": "2026-10-28 19:00",
-      "title": "Prima ricerca trend Instagram programmata",
-      "summary": "Ricerca di trend, format e audio prevista per mercoledì 28 ottobre alle 19:00. Nessun report verificato disponibile al momento di questo aggiornamento.",
-      "status": "Programmato · non completato"
+      "agentId": "social",
+      "date": "2026-10-27 19:05",
+      "title": "Storie Instagram per il 28 ottobre",
+      "summary": "Il precedente report indica tre Storie Instagram sul passaggio dall'idea al progetto digitale, con sondaggio finale. Pubblicazione e allegati non verificati.",
+      "status": "Risultato riportato · pubblicazione non verificata"
     }
   ]
 }
